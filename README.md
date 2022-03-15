@@ -31,3 +31,17 @@ Script for estmating the contrast map (in a batch) with the PSF, and LSFs provid
 # othe main scripts
 
 Scripts for deblurring the images with the selected algorithms and selected font types (in a batch)
+
+## Authors
+
+Kenji Nose Filho, CECS/UFABC, kenji.nose@ufabc.edu.br
+
+Renato Lopes, FEEC/UNICAMP
+
+Renan D. B. Brotto, FEEC/UNICAMP
+
+## Documentation
+
+See functions documentation and:
+
+Nose-Filho, K.; Lopes, R.; Brotto, R. D. B.; Senna, T. C.; Romano, J. M. T.; New algorithms for sparse multichannel blind deconvolution (To be published).
